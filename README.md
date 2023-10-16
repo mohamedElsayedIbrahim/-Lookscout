@@ -1,5 +1,5 @@
 # Finsweet
-A Responsive website task with the Information Technology Institute (ITI).
+A Responsive website task
 using :
 - HTML5
 - CSS3
